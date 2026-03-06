@@ -29,12 +29,19 @@ NumPy
 PyTorch
 
 Installation
+
 git clone https://github.com/yourusername/AI-Time-Monitor-System.git
+
 cd AI-Time-Monitor-System
+
 python -m venv venv
+
 venv\Scripts\activate
+
 pip install ultralytics opencv-python deep-sort-realtime numpy torch torchvision
+
 Run Project
+
 python tracking.py
 
 Press ESC to close the camera.
@@ -43,6 +50,7 @@ Output Example
 ID 1   Time 00:12
 ID 2   Time 00:07
 ID 3   Time 00:04
+
 Author
 
 BTech Final Year Project – AI Computer Vision System
