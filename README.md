@@ -51,8 +51,6 @@ ID 1   Time 00:12
 ID 2   Time 00:07
 ID 3   Time 00:04
 
-Author
-
 BTech Final Year Project – AI Computer Vision System
 
 https://github.com/user-attachments/assets/f0514689-ca54-4012-9b3a-26d997c16b73
